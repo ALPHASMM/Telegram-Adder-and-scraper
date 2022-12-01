@@ -7,6 +7,9 @@ The targetd group to group members transfer software
 # Contact Developer
 
 * Telegram @ALPHA_UZS
+
+* Channel https://t.me/ALPHA_DVR
+
 * WHATSAPP +998911560757
 
 # Features
